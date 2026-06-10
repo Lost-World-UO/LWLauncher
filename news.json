@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-06-10",
+    "title": "Welkom op Lost World UO!",
+    "body": "De server is live. Download de client via de launcher en begin je avontuur in de Lost World.",
+    "type": "news"
+  },
+  {
+    "date": "2026-06-10",
+    "title": "Patch 1.0 — Server launch",
+    "body": "- Initiële serveropstelling voltooid\n- Alle custom content geladen\n- Lost World Uniques beschikbaar in de wereld\n- Eerste spelers welkom!",
+    "type": "patch"
+  }
+]
