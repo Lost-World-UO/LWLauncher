@@ -1,4 +1,10 @@
 [
+    {
+    "date": "2026-06-11",
+    "title": "KNOWN BUG: Status bar",
+    "body": "The Status bar looks a bit funky, we're working on it.",
+    "type": "news"
+  },
   {
     "date": "2026-06-11",
     "title": "Razor Enhanced support",
