@@ -1,14 +1,14 @@
 [
   {
-    "date": "2026-06-10",
-    "title": "Welkom op Lost World UO!",
-    "body": "De server is live. Download de client via de launcher en begin je avontuur in de Lost World.",
+    "date": "2026-06-11",
+    "title": "Razor Enhanced support",
+    "body": "Razor Enhanced is now supported through LWUO Launcher!",
     "type": "news"
   },
   {
     "date": "2026-06-10",
-    "title": "Patch 1.0 — Server launch",
-    "body": "- Initiële serveropstelling voltooid\n- Alle custom content geladen\n- Lost World Uniques beschikbaar in de wereld\n- Eerste spelers welkom!",
-    "type": "patch"
+    "title": "LWUO Launcher is live!",
+    "body": "Download, update and connect to our world\n with ease and be part of our community!",
+    "type": "News"
   }
 ]
